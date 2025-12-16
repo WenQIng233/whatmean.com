@@ -109,6 +109,9 @@
               </svg>
               微信公众号：何意味.com
             </p>
+                <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" class="text-decoration-none text-white-50">
+             Test
+            </a>
           </div>
           </div>
         </div>
