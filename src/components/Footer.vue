@@ -27,6 +27,7 @@
             <li class="mb-2"><a href="#" class="text-decoration-none text-white-50"> </a></li>
             <li class="mb-2"><a href="#" class="text-decoration-none text-white-50"> </a></li>
           </ul>
+          <div>
       <hr class="my-4">
       <div class="row align-items-center">
         <div class="col-md-6 text-center text-md-start">
